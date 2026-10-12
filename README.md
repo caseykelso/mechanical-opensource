@@ -6,8 +6,11 @@ This repo contains my opensource mechanical designs posted on printables and els
 sudo apt-get install inkscape openscad build-essential
 ```
 
+# Hosted at Printables
+https://www.printables.com/model/1874688-tripp-lite-surge-protector-mounting-brackets
 
 # License
+Creative Commons
 
 # Inventory
 * Tripp-lite surge protector mounting brackets for under desk or wall mounting.
