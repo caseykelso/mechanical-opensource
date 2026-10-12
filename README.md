@@ -26,10 +26,14 @@ make surgeprotectorbracket2d.dxf        # 2d drawing
 ```
 
 All design details, the verified geometry, the Bambu P1S print settings and the
-fit history live in [SURGEPROTECTOR.md](SURGEPROTECTOR.md). Read that before
+fit history live in [SURGEPROTECTOR.md](designs/SURGEPROTECTOR.md). Read that before
 printing. The sliceable Bambu Studio project is `surge_protector_bracket.3mf`.
 
 Fit and screw size are parameters at the top of
 `surge_protector_bracket.scad`; edit those rather than the geometry. Open the
 file in the OpenSCAD GUI to see a ghosted protector and desk for a fit check,
 that background geometry is excluded from the STL.
+
+![surge0](designs/tripp-lite-surge-protector-brackets/surge0.jpg)
+![surge1](designs/tripp-lite-surge-protector-brackets/surge1.jpg)
+![surge2](designs/tripp-lite-surge-protector-brackets/surge2.jpg)
